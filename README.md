@@ -69,7 +69,7 @@ https://github.com/blueimp/JavaScript-Templates
 </ul>
 ```
 
-```
+```json
 {
   "title": "JavaScript Templates",
   "license": {
